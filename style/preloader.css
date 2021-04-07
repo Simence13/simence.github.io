@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background:#4a484b url('https://drive.google.com/uc?id=1y6XxOkwRRG7FrxFXwYogzV7wbLzR2bgN') no-repeat center;
+    background-size: 300px;
+    z-index: 999999;
+}
+
+
+/* https://drive.google.com/uc?id=1y6XxOkwRRG7FrxFXwYogzV7wbLzR2bgN
+https://drive.google.com/uc?id=1IkKeUQoLcZm7zkHfQFk0MWudMWHsYpXf */
